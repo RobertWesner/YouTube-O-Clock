@@ -1,4 +1,17 @@
-# YouTube O'Clock
+<div align="center">
+    <h1>YouTube O'Clock</h1>
+    <p>
+        Always has the video timestamp in the URL
+    </p>
+</div>
+
+---
+
+<div align="center">
+Get more YouTube scripts on <a href="https://scripts.yt"><img src="https://scripts.yt/favicon.ico" height="10"> scripts.yt</a>
+</div>
+
+---
 
 A quick way to always have video timestamps in your URL.
 

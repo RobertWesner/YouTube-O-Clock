@@ -6,8 +6,10 @@
 // @license         MIT
 // @namespace       http://robert.wesner.io/
 // @match           https://*.youtube.com/*
-// @icon            https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @icon            https://scripts.yt/favicon.ico
 // @grant           none
+// @homepageURL     https://scripts.yt/scripts/youtube-o-clock-Add-And-Update-YouTube-Timestamp-When-Watching-Videos
+// @supportURL      https://github.com/RobertWesner/YouTube-O-Clock/issues
 // ==/UserScript==
 
 (function() {
